@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git-comit
 - 👀 I’m interested in building stuff on Solana
-- 🌱 I’m currently learning Solana smart contracts
+- 🌱 I’m currently learning Solana development
 - 💞️ I’m looking to collaborate on anythig with solana
 - 📫 How to reach me git.comit@gmail.com
 
