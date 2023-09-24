@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @git-comit
-- 👀 I’m interested in building stuff on Solana
-- 🌱 I’m currently learning Solana development
-- 💞️ I’m looking to collaborate on anythig with solana
+- 👀 I’m interested in building stuff in Solidity
+- 💞️ I’m looking for a job writing Solidity 
 - 📫 How to reach me git.comit@gmail.com
 
 <!---
