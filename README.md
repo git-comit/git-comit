@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @git-comit
 
-- 💞️ I’m looking for a job writing Solidity 
+- 💞️ I’m looking for a job writing code 
 - 📫 How to reach me git.comit@gmail.com
 
 <!---
