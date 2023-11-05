@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @git-comit
-- 👀 I’m interested in building stuff in Solidity
+
 - 💞️ I’m looking for a job writing Solidity 
 - 📫 How to reach me git.comit@gmail.com
 
